@@ -2,8 +2,6 @@
 
 A PHP web dashboard that aggregates upcoming programming-contest schedules across multiple online judges into one timezone-aware view.
 
-Built in 2020 as a college project — undergrad work I'm keeping around for context.
-
 ## What it shows
 
 Upcoming contests pulled from:
@@ -36,7 +34,3 @@ php -S localhost:8000
 ```
 
 Open http://localhost:8000/main.php in your browser.
-
-## Status
-
-This is a historical project — I'm not actively maintaining it. If something is broken against the current clist.by API, PRs welcome but I may not get to fixes quickly.
